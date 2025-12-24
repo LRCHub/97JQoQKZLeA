@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "学級崩壊☆ですとろいやー",
+  "base_artist": "いれいす",
+  "createdAt": "2025-12-24T19:28:44.313506Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学級崩壊☆ですとろいやー",
+      "artist": "いれいす",
+      "has_synced": false,
+      "path": "select/pl_01_学級崩壊☆ですとろいやー_いれいす.txt"
+    }
+  ]
+}
